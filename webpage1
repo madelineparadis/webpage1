@@ -5,7 +5,7 @@ index.html
 </head>
 <body>
 <p>
-<h1> how are you?
+<h1>
 <h1>
 <a> "https://www.sheddaquarium.org/plan-a-visit?utm_source=target&utm_medium=cpc&utm_campaign=primary_campaign&gclid=CjwKCAjw19z6BRAYEiwAmo64LT1d5342mzqtGaf9QRWUIM9Q0kTp83O4n915m7V87S8HOpmll53idRoCsbkQAvD_BwE">This is a link</a>
-<img src="whale.jpeg" alt="picture of beluga whales">
+<img src="whale.jpeg" alt="picture of beluga whales" width="500">
